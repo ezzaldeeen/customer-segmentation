@@ -2,10 +2,9 @@
 implement different cluster algorithms on the use-case of customer segmentation.
 
 # Online Retail - Customer Segmentation & Clustering
----
+
 
 ## Data Description:
----
 
 ### Data Set Information:
 
@@ -13,7 +12,7 @@ implement different cluster algorithms on the use-case of customer segmentation.
 
 Source: [Online-Retail](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 
----
+
 
 ### Attribute Information:
 
@@ -26,4 +25,4 @@ Source: [Online-Retail](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 - **CustomerID**: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 - **Country**: Country name. Nominal, the name of the country where each customer resides.
 
----
+
